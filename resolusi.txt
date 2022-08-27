@@ -3,6 +3,5 @@ RESOLUSI 2022
 - Belajar HTML
 - Belajar CSS
 - Belajar Javascript
-- Belajar Bootstrap 5
 - Belajar Git dan Github
 - Kolaborasi dengan siswa binar lain
