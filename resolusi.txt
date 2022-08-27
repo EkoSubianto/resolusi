@@ -1,0 +1,6 @@
+RESOLUSI 2022
+- Ikut bootcamp binar
+- Belajar HTML
+- Belajar CSS
+- Belajar Javascript
+- Belajar Bootstrap 5
